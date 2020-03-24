@@ -63,7 +63,7 @@ Stacked Bar chart describing the race status for grand prix for the participatin
 
 ## References
 
-[1] https://www.kaggle.com/cjgdev/formula-1-race-data-19502017
+[1] https://www.kaggle.com/cjgdev/formula-1-race-data-19502017 <br>
 [2] https://www.behance.net/gallery/63599447/Formula-One-2018
 
 ## License
