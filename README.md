@@ -1,4 +1,4 @@
-# Formula1
+# Formula1 Grand Prix Analysis (1950 - 2017)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
@@ -65,9 +65,4 @@ Stacked Bar chart describing the race status for grand prix for the participatin
 
 ## License
 
-This project is licensed under the MIT License
-
-
-
-
-
+This project is licensed under the MIT License. Feel free to create a Pull Request for adding implementations or suggesting new ideas to make the analysis more insightful
