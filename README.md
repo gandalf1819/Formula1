@@ -3,6 +3,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Python](https://upload.wikimedia.org/wikipedia/commons/3/34/Blue_Python_3.6_Shield_Badge.svg) [![Build Status](https://travis-ci.org/usgs/nwisweb-tableau-data-connector.svg?branch=master)](https://travis-ci.org/usgs/nwisweb-tableau-data-connector)
 
+<p align="center">
+    <a href="https://www.buymeacoffee.com/wyavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
+</p>
+
+
 ![F1-cover](https://github.com/gandalf1819/Formula1/blob/master/f1.png)
 
 Formula 1 is one of most popular and highly enjoyed sport across the globe. Extreme precision, high accuracy and excellent team are the key constituents for a team to participate and win the grand prix. The moment anyone decides to act on their own, the team can either lose position or straight away get out of the competition. All the major teams like Scuderia Ferrari, McLaren, Redbull, Renault and numerous others compete for the world championship. As data science enthusiasts and huge fans of Formula1, we thought of analyzing the Formula1 dataset that we took from Kaggle which provided us with the open dataset that in turn provided us with numerous data attributes like Formula1 drivers, races, lap timings, seasons data, pitstop status and other related attributes.
